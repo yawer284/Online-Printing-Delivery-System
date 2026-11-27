@@ -25,7 +25,8 @@ This section covers the conceptual, logical, and physical data models engineered
 * **[Database Requirements Specification (DRS)](./Docs/Database/DRS.pdf)**: Comprehensive documentation of data entities, attributes, data types, and constraints.
 * **[Entity-Relationship Diagram (ERD)](./Docs/Database/Database_ERD.pdf)**: Conceptual data model illustrating entities, associative relationships, and strict cardinalities (1:N, M:N).
 * **[Relational Database Schema](./Docs/Database/Database%20Schema.pdf)**: Logical database design outlining normalized tables, primary keys, and role-playing foreign key mappings.
-
+* **[Complete SQL Script (DDL, DML & DQL)](./Docs/Database/SQL/Online%20Printing%20System%20-%20SQL%20code%20.sql)**: Executable MySQL script containing database and table creation (**DDL**), seed data insertion, updates, and deletions (**DML**), as well as multi-table joins, operational filters, and aggregate reporting queries (**DQL**).
+* **[SQL Execution Screenshots](./Docs/Database/SQL/IMGs)**: Visual verification of populated tables and query execution outputs captured in DBeaver.
 ---
 
 ## Tools & Technologies Used
